@@ -12,7 +12,7 @@ Serves static HTML pages based on the requested URL, with a custom 404 page for 
 |---|---|
 | `localhost:8080/` | `index.html` |
 | `localhost:8080/about` | `about.html` |
-| `localhost:8080/contact-me` | `contact-me.html` |
+| `localhost:8080/contactme` | `contact-me.html` |
 | `localhost:8080/*` | `404.html` |
 
 ---
