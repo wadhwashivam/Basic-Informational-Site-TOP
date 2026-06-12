@@ -1,0 +1,25 @@
+{
+  "name": "project--basic-informaitonal-site",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js HTTP server built without any frameworks — just the Node.js standard library. Built as part of [The Odin Project](https://www.theodinproject.com/) Node.js curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadhwashivam/Basic-Informational-Site-TOP.git"
+  },
+  "keywords": [],
+  "author": "Shivam Wadhwa <shivamwadhwa7877@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/wadhwashivam/Basic-Informational-Site-TOP/issues"
+  },
+  "homepage": "https://github.com/wadhwashivam/Basic-Informational-Site-TOP#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
